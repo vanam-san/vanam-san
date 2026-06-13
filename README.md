@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite. (6 days ago)
+- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite. (1 week ago)
 - [vanam-san/Discussions](https://github.com/vanam-san/Discussions) - Central repository for discussions. (7 months ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore: updated docs to show correct setup methods for crisp](https://github.com/weburz/crisp/pull/58) on [weburz/crisp](https://github.com/weburz/crisp) (9 months ago)
+- [chore: updated docs to show correct setup methods for crisp](https://github.com/weburz/crisp/pull/58) on [weburz/crisp](https://github.com/weburz/crisp) (10 months ago)
 - [chore(contribution.md): fixed a minor syntax error.](https://github.com/weburz/.github/pull/1) on [weburz/.github](https://github.com/weburz/.github) (1 year ago)
 - [chore(validator): enforcing commit message character limit to 50.](https://github.com/weburz/crisp/pull/25) on [weburz/crisp](https://github.com/weburz/crisp) (1 year ago)
 
