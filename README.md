@@ -12,9 +12,9 @@ Work in Progress
 
 #### 🌱 My latest projects
 
+- [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) - 
 - [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - 
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0.
-- [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite.
 
 
 
