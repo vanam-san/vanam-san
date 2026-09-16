@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) -  (3 days ago)
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) -  (4 days ago)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 month ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (3 months ago)
 
@@ -20,9 +20,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Fix workflow merge issues and enhance documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/8) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (3 days ago)
-- [Fix workflow merge issues and add template project documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/7) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (3 days ago)
-- [Implement auto-release on master push and update documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/6) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (3 days ago)
+- [Fix workflow merge issues and enhance documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/8) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (4 days ago)
+- [Fix workflow merge issues and add template project documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/7) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (4 days ago)
+- [Implement auto-release on master push and update documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/6) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (4 days ago)
 
 #### 📓 Gists I wrote
 
