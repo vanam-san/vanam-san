@@ -6,23 +6,23 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) -  (1 week ago)
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (today)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 month ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (3 months ago)
 
 #### 🌱 My latest projects
 
 - [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) - 
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - 
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0.
 
 
 
 #### 🔨 My recent Pull Requests
 
+- [Dev](https://github.com/vanam-san/resume-bragdoc-template/pull/9) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (today)
 - [Fix workflow merge issues and enhance documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/8) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (1 week ago)
 - [Fix workflow merge issues and add template project documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/7) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (1 week ago)
-- [Implement auto-release on master push and update documentation](https://github.com/vanam-san/resume-bragdoc-template/pull/6) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (1 week ago)
 
 #### 📓 Gists I wrote
 
