@@ -6,8 +6,8 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (today)
-- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (2 days ago)
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (1 day ago)
+- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (3 days ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [fixing the templates and simplifying the readme](https://github.com/vanam-san/resume-bragdoc-template/pull/10) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (today)
-- [Dev](https://github.com/vanam-san/vanam-erudite/pull/16) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (2 days ago)
-- [Dev](https://github.com/vanam-san/vanam-erudite/pull/15) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (2 days ago)
+- [fixing the templates and simplifying the readme](https://github.com/vanam-san/resume-bragdoc-template/pull/10) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (1 day ago)
+- [Dev](https://github.com/vanam-san/vanam-erudite/pull/16) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (3 days ago)
+- [Dev](https://github.com/vanam-san/vanam-erudite/pull/15) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (3 days ago)
 
 #### 📓 Gists I wrote
 
