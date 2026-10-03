@@ -12,7 +12,7 @@ Work in Progress
 
 #### 🌱 My latest projects
 
-- [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) - Personal cloudlab with cloud services using docker.
+- [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) - Docker-based self-hosting lab that lets you deploy independent services. 
 - [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0.
 
