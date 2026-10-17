@@ -20,9 +20,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
+- [fix(caddy): use host networking so tailscale-only sees real client IPs](https://github.com/vanam-san/cloudlab/pull/1) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (today)
 - [chore(release): bump version to 2.3.0](https://github.com/vanam-san/vanam-erudite/pull/19) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (6 days ago)
 - [Adding HANCORE themes](https://github.com/vanam-san/vanam-erudite/pull/18) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (6 days ago)
-- [fixing the templates and simplifying the readme](https://github.com/vanam-san/resume-bragdoc-template/pull/10) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
