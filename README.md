@@ -20,8 +20,8 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [feat(caddy): HTTP Basic Auth as default site gate, Tailscale optional](https://github.com/vanam-san/cloudlab/pull/2) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (5 days ago)
-- [fix(caddy): use host networking so tailscale-only sees real client IPs](https://github.com/vanam-san/cloudlab/pull/1) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (5 days ago)
+- [feat(caddy): HTTP Basic Auth as default site gate, Tailscale optional](https://github.com/vanam-san/cloudlab/pull/2) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (6 days ago)
+- [fix(caddy): use host networking so tailscale-only sees real client IPs](https://github.com/vanam-san/cloudlab/pull/1) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (6 days ago)
 - [chore(release): bump version to 2.3.0](https://github.com/vanam-san/vanam-erudite/pull/19) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (1 week ago)
 
 #### 📓 Gists I wrote
