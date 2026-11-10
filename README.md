@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (4 weeks ago)
+- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 month ago)
 - [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (1 month ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (5 months ago)
 
@@ -22,7 +22,7 @@ Work in Progress
 
 - [feat(caddy): HTTP Basic Auth as default site gate, Tailscale optional](https://github.com/vanam-san/cloudlab/pull/2) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (3 weeks ago)
 - [fix(caddy): use host networking so tailscale-only sees real client IPs](https://github.com/vanam-san/cloudlab/pull/1) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (3 weeks ago)
-- [chore(release): bump version to 2.3.0](https://github.com/vanam-san/vanam-erudite/pull/19) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (4 weeks ago)
+- [chore(release): bump version to 2.3.0](https://github.com/vanam-san/vanam-erudite/pull/19) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (1 month ago)
 
 #### 📓 Gists I wrote
 
