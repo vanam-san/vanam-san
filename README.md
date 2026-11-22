@@ -6,23 +6,23 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (today)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 week ago)
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (1 month ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (5 months ago)
 
 #### 🌱 My latest projects
 
+- [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI
 - [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) - Docker-based self-hosting lab that lets you deploy independent services. 
 - [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst
-- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0.
 
 
 
 #### 🔨 My recent Pull Requests
 
+- [Refresh the resume and brag document template](https://github.com/vanam-san/resume-bragdoc-template/pull/11) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (today)
 - [feat(caddy): HTTP Basic Auth as default site gate, Tailscale optional](https://github.com/vanam-san/cloudlab/pull/2) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (1 month ago)
 - [fix(caddy): use host networking so tailscale-only sees real client IPs](https://github.com/vanam-san/cloudlab/pull/1) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (1 month ago)
-- [chore(release): bump version to 2.3.0](https://github.com/vanam-san/vanam-erudite/pull/19) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (1 month ago)
 
 #### 📓 Gists I wrote
 
