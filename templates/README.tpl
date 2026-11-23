@@ -8,12 +8,12 @@ Work in Progress
 
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 3}}
+{{range recentContributions 4}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 3}}
+{{range recentRepos 4}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
@@ -27,9 +27,9 @@ Work in Progress
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📓 Gists I wrote
-{{range gists 3}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+#### 📜 My recent blog posts
+{{range rss "https://vanam.dev/rss.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ⭐ Recent Stars
