@@ -6,12 +6,14 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
+- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue. (today)
 - [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (1 day ago)
 - [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI (1 day ago)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 week ago)
 
 #### 🌱 My latest projects
 
+- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue.
 - [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI
 - [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) - Docker-based self-hosting lab that lets you deploy independent services. 
 - [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst
@@ -24,11 +26,13 @@ Work in Progress
 - [feat(caddy): HTTP Basic Auth as default site gate, Tailscale optional](https://github.com/vanam-san/cloudlab/pull/2) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (1 month ago)
 - [fix(caddy): use host networking so tailscale-only sees real client IPs](https://github.com/vanam-san/cloudlab/pull/1) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (1 month ago)
 
-#### 📓 Gists I wrote
+#### 📜 My recent blog posts
 
-- [Complete list of github markdown emoji markup](https://gist.github.com/3b8d8fd538581d12f435e809166c1cce) (5 years ago)
-- [List of my VS Code extensions](https://gist.github.com/cedd9dda8e27d260e7c5636292773502) (5 years ago)
-- [First Gist](https://gist.github.com/d6e1f480c38fa22151ab88207f297ba1) (5 years ago)
+- [The Hidden Cost of Infrastructure Nobody Owns](https://vanam.dev/blog/hidden-cost-unowned-infrastructure/) (3 weeks ago)
+- [Your Career: A Resume and Brag Doc in Typst](https://vanam.dev/blog/resume-bragdoc-template/) (1 month ago)
+- [How to Benchmark a VPS Properly](https://vanam.dev/blog/benchmarking-vps-properly/) (1 month ago)
+- [From In-Person to AI: Lessons in Interviewing](https://vanam.dev/blog/lessons-in-interviewing/) (1 month ago)
+- [99.95% Uptime: What That Actually Means in Minutes of Downtime](https://vanam.dev/blog/uptime-99-95-minutes/) (2 months ago)
 
 #### ⭐ Recent Stars
 
