@@ -6,9 +6,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue. (1 day ago)
-- [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI (1 day ago)
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (2 days ago)
+- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue. (today)
+- [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI (today)
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (today)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 week ago)
 
 #### 🌱 My latest projects
