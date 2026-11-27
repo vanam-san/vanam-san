@@ -6,9 +6,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue. (1 day ago)
-- [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI (2 days ago)
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (2 days ago)
+- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue. (2 days ago)
+- [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI (3 days ago)
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (3 days ago)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Refresh the resume and brag document template](https://github.com/vanam-san/resume-bragdoc-template/pull/11) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (4 days ago)
+- [Refresh the resume and brag document template](https://github.com/vanam-san/resume-bragdoc-template/pull/11) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (5 days ago)
 - [feat(caddy): HTTP Basic Auth as default site gate, Tailscale optional](https://github.com/vanam-san/cloudlab/pull/2) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (1 month ago)
 - [fix(caddy): use host networking so tailscale-only sees real client IPs](https://github.com/vanam-san/cloudlab/pull/1) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (1 month ago)
 
