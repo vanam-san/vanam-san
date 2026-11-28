@@ -7,9 +7,9 @@ Work in Progress
 #### 👷 Check out what I'm currently working on
 
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (today)
-- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue. (2 days ago)
-- [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI (3 days ago)
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (3 days ago)
+- [vanam-san/fittrack](https://github.com/vanam-san/fittrack) - Desktop fitness tracker app build on wails, go, vue. (3 days ago)
+- [vanam-san/wails-template-vue-tailwind](https://github.com/vanam-san/wails-template-vue-tailwind) - Wails template based on Vue, Tailwind, Shade UI (4 days ago)
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) - A Resume and Bragdoc template built using Typst (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,13 +22,13 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Redesign the site and prepare v2.4.0](https://github.com/vanam-san/vanam-erudite/pull/45) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (today)
-- [Refresh the resume and brag document template](https://github.com/vanam-san/resume-bragdoc-template/pull/11) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (5 days ago)
-- [feat(caddy): HTTP Basic Auth as default site gate, Tailscale optional](https://github.com/vanam-san/cloudlab/pull/2) on [vanam-san/cloudlab](https://github.com/vanam-san/cloudlab) (1 month ago)
+- [Improve search discovery for the Astro portfolio template](https://github.com/vanam-san/vanam-erudite/pull/46) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (today)
+- [Redesign the site and prepare v2.4.0](https://github.com/vanam-san/vanam-erudite/pull/45) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (1 day ago)
+- [Refresh the resume and brag document template](https://github.com/vanam-san/resume-bragdoc-template/pull/11) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (6 days ago)
 
 #### 📜 My recent blog posts
 
-- [The Hidden Cost of Infrastructure Nobody Owns](https://vanam.dev/blog/hidden-cost-unowned-infrastructure/) (3 weeks ago)
+- [The Hidden Cost of Infrastructure Nobody Owns](https://vanam.dev/blog/hidden-cost-unowned-infrastructure/) (4 weeks ago)
 - [Your Career: A Resume and Brag Doc in Typst](https://vanam.dev/blog/resume-bragdoc-template/) (1 month ago)
 - [How to Benchmark a VPS Properly](https://vanam.dev/blog/benchmarking-vps-properly/) (1 month ago)
 - [From In-Person to AI: Lessons in Interviewing](https://vanam.dev/blog/lessons-in-interviewing/) (1 month ago)
